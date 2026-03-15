@@ -27,6 +27,14 @@ TC2032-DesignOfIntelligentAgents/
 └── README.md
 
 ```
+### 1. Vacuum agent simulation
+Based on the trending AI vacuums that automatically clean the floor without crashing and in a short time span, this vacuum agent adapts to a square room, identifying the closest dirty cell and cleaning it, while simulating a deterministic environment where every $n$ steps, a random cell gets dirty. This project can be found at `Homework1_Vacuum_Agent`. 
+
+### 2. Automatic traffic light simulation
+Based on data regarding car flow of a real intersection in Monterrey, Nuevo León, an automatic traffic light was designed in order to improve traffic flow, avoiding long waiting lines of cars trying to reach their destination. This project can be found at `FinalProject_Team4`. 
+
+### 3. CSP implementation on a traffic light
+CSP was implemented on an intersection where five restrictions were defined. The total number of combinations was counted based off recursive backtracking, allowing the identification of valid states, which then was simulated visually, with high attention to detail. Graphics were made to analyze traffic flow with the traffic light and how it altered vehicles. This project can be found at `ExtraPointsAct`.
 
 ## Technologies used
 The main tools used throughout the course include: 
