@@ -37,3 +37,8 @@ The main tools used throughout the course include:
 
 ## Purpose of the repository
 The main purpose of this repository is to document the completed work throughout the course, as well as provide different agent model implementations, as well as explore concepts related to artificial intelligence and autonomous decision-making. 
+
+## Demonstration Video
+The following video includes an example of a CSP Traffic Simulation carried out in Python, using libraries such as `Matplotlib` and `Numpy` to improve visuals for the user, as well as the implementation of recursive backtracking to identify the total number of possible combinations for valid scenarios on the simulation. 
+
+[Watch the video](ExtraPointsAct/CSP_TrafficSimulation.mp4)
