@@ -41,4 +41,4 @@ The main purpose of this repository is to document the completed work throughout
 ## Demonstration Video
 The following video includes an example of a CSP Traffic Simulation carried out in Python, using libraries such as `Matplotlib` and `Numpy` to improve visuals for the user, as well as the implementation of recursive backtracking to identify the total number of possible combinations for valid scenarios on the simulation. 
 
-(ExtraPointsAct/CSP_TrafficSimulation.gif)
+![Simulación de autos](ExtraPointsAct/CSP_Traffic_Simulacion.gif)
